@@ -5,7 +5,7 @@
 <h2>Types of testing tools</h2>
 <p>There are several types of testing tools that a QA manager can consider when choosing the right ones:</p>
 <ol>
-<li><strong>Open source tools</strong> - these are programs, the source code of which is available in the public domain for free use and modification. There are many open-source tools for almost every stage of testing, but they often get outplayed by commercial ones in terms of functionality.</li>
+<li><strong>Open source tools</strong> - these are programs, the source code of which is available in the public domain workplace for free use and modification. There are many open-source tools for almost every stage of testing, but they often get outplayed by commercial ones in terms of functionality.</li>
 <li><strong>Commercial tools</strong> are produced for sale or other commercial purposes. These tools usually offer more functionality and support.</li>
 <li><strong>User tools</strong> are developed specifically to solve problems that can&rsquo;t be solved with ready-made programs.</li>
 </ol>
