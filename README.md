@@ -28,6 +28,12 @@
 <div>
 <p><strong>Read more about:&nbsp;</strong><a href="https://www.workpuls.com/blog/most-common-employee-monitoring-types">workplace monitoring</a></p>
 </div>
+<div>
+<p><strong>Read more about:</strong><a href="https://www.workpuls.com/blog/most-common-employee-monitoring-types">workplace monitoring</a></p>
+</div>
+<div>
+<p><strong>Read more about:&nbsp;</strong><a href="https://www.workpuls.com/blog/most-common-employee-monitoring-types">workplace monitoring</a></p>
+</div>
 <ol>
 <li>The tool must automatically generate test cases.</li>
 <li>The tool must automatically run test cases.</li>
