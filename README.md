@@ -25,6 +25,9 @@
 <h3>Step 1: identification of the need for tools</h3>
 <p>You need to accurately define your requirements for the testing tool, document these requirements, and then give them to the team and management for consideration.</p>
 <p>For example, requirements for a tool can be as follows:</p>
+<div>
+<p><strong>Read more about:&nbsp;</strong><a href="https://www.workpuls.com/blog/most-common-employee-monitoring-types">workplace monitoring</a></p>
+</div>
 <ol>
 <li>The tool must automatically generate test cases.</li>
 <li>The tool must automatically run test cases.</li>
