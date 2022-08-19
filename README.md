@@ -3,7 +3,7 @@
 <p>Along with that, you need to understand who in your team knows how to work with the tool that you plan to purchase with the help of <a href="https://www.workpuls.com/blog/most-common-employee-monitoring-types">workplace monitoring</a> software.</p>
 <p>It&rsquo;s not easy to answer this question, as there are many factors to consider. Particularly, you need to know what tools are available on the market at the moment, and which of them best suit the requirements and budget of your project. Along with that, you need to understand who in your team knows how to work with the tool that you plan to purchase.</p>
 <p>The success of any test automation depends on choosing the right tool. Choosing the right testing tool will help you increase project productivity and reduce project costs. On average, a suitable tool doubles the speed of the testing process and hence allows saving up to 50% of the budget.</p>
-<h2>Types of testing tools</h2>
+<h2><a href="https://tellmemoregolf.com/equipment/clubs/best-2-iron/">Types of testing tools</a></h2>
 <p>There are several types of testing tools that a QA manager can consider when choosing the right ones:</p>
 <ol>
 <li><strong>Open source tools</strong> - these are programs, the source code of which is available in the public domain workplace for free use and modification. There are many open-source tools for almost every stage of testing, but they often get outplayed by commercial ones in terms of functionality.</li>
