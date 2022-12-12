@@ -24,7 +24,7 @@
 <h2>The process of tool selection</h2>
 <p>In order to select the most suitable testing tool, a QA manager needs to follow the tool selection process described below.</p>
 <h3>Step 1: identification of the need for tools</h3>
-<p>You need to accurately define your requirements for the testing tool, document these requirements, and then give them to the team and management for consideration.</p>
+<p>You need to accurately define <a href="https://www.adzuna.com/blog/5-resume-writing-rules-to-engage-the-reader/">writing your resume</a> requirements for the testing tool, document these requirements, and then give them to the team and management for consideration.</p>
 <p>For example, requirements for a tool can be as follows:</p>
 <ol>
 <li>The tool must automatically generate test cases.</li>
